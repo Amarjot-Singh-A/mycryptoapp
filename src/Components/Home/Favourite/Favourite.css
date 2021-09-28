@@ -1,0 +1,17 @@
+.fav-list {
+    max-width: 90%;
+    margin: 8% auto;
+}
+
+.fav-items a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.25rem;
+}
+
+.favourite_item {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    padding: 2%;
+}

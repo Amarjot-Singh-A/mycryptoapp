@@ -1,0 +1,46 @@
+.fav-button {
+    background-color: white;
+    border: 4px solid #F9A3FF;
+    border-radius: 10px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.MuiPaper-elevation1{
+    box-shadow: none !important;
+}
+
+.desc_coin {
+    margin: 10% auto;
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+
+.desc_coin p {
+    line-height: 1.75;
+    max-width: 80ch;
+    margin: auto;
+    text-align: left;
+}
+
+
+.price_convertor_div ,
+.graph_interval_div{
+    text-align: center;
+    margin: 10% auto;
+}
+
+.price_convertor_div label {
+    display: block;
+    padding-bottom: 5%;
+}
+
+.price_convertor_div input {
+    margin-bottom: 5%;
+}
